@@ -8,3 +8,4 @@ tags:
 type:
   - lecture
 resources: 5
+parent_template: git@github.com:learn-co-curriculum/HTML5-Media.git

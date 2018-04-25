@@ -69,8 +69,4 @@ See the resource links at the bottom of the lesson for a few recommended free au
 - [MediaHuman - Free Audio Converter](http://www.mediahuman.com/audio-converter/)
 - [JavaScript HTML5 Video Player Comparison](https://praegnanz.de/html5video/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/HTML5-Media'>HTML5 Media </a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/HTML5-Media'>HTML5 Media</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/HTML5-Media'>HTML5 Media </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML5 Media</p>
