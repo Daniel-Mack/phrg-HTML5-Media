@@ -69,4 +69,7 @@ See the resource links at the bottom of the lesson for a few recommended free au
 - [MediaHuman - Free Audio Converter](http://www.mediahuman.com/audio-converter/)
 - [JavaScript HTML5 Video Player Comparison](https://praegnanz.de/html5video/)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-HTML5-Media/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-HTML5-Media/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML5 Media</p>
